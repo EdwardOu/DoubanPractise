@@ -1,0 +1,7 @@
+/Users/ou/Desktop/Douban/Classes/CompleteReviewTableViewController.m: In function '-[CompleteReviewTableViewController viewDidLoad]':
+/Users/ou/Desktop/Douban/Classes/CompleteReviewTableViewController.m:78: warning: 'CompleteReviewTableViewController' may not respond to '-traverseElement:'
+/Users/ou/Desktop/Douban/Classes/CompleteReviewTableViewController.m:78: warning: (Messages without a matching method signature
+/Users/ou/Desktop/Douban/Classes/CompleteReviewTableViewController.m:78: warning: will be assumed to return 'id' and accept
+/Users/ou/Desktop/Douban/Classes/CompleteReviewTableViewController.m:78: warning: '...' as arguments.)
+/Users/ou/Desktop/Douban/Classes/CompleteReviewTableViewController.m: In function '-[CompleteReviewTableViewController traverseElement:]':
+/Users/ou/Desktop/Douban/Classes/CompleteReviewTableViewController.m:145: warning: 'CompleteReviewTableViewController' may not respond to '-hideLoadingIndicator'

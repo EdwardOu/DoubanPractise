@@ -1,0 +1,2 @@
+/Users/ou/Desktop/Douban/Classes/FriendsBroadCastDetailCell.m: In function '-[FriendsBroadCastDetailCell handleSelectionInTableView:]':
+/Users/ou/Desktop/Douban/Classes/FriendsBroadCastDetailCell.m:41: warning: unused variable 'rowIndex'

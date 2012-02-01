@@ -1,0 +1,6 @@
+/Users/ou/Documents/Douban/Classes/LatestMediaViewController.m:9:24: error: LatestMedia.h: No such file or directory
+/Users/ou/Documents/Douban/Classes/LatestMediaViewController.m:113: warning: cannot find interface declaration for 'LatestMediaViewController'
+/Users/ou/Documents/Douban/Classes/LatestMediaViewController.m: In function '-[LatestMediaViewController didReceiveMemoryWarning]':
+/Users/ou/Documents/Douban/Classes/LatestMediaViewController.m:130: error: no super class declared in @interface for 'LatestMediaViewController'
+/Users/ou/Documents/Douban/Classes/LatestMediaViewController.m: In function '-[LatestMediaViewController dealloc]':
+/Users/ou/Documents/Douban/Classes/LatestMediaViewController.m:142: error: no super class declared in @interface for 'LatestMediaViewController'

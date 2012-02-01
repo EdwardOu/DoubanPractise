@@ -1,0 +1,6 @@
+/Users/ou/Documents/Douban/Classes/LatestMedia.m: In function '-[LatestMediaViewController numberOfSectionsInTableView:]':
+/Users/ou/Documents/Douban/Classes/LatestMedia.m:76: error: expected expression before '<' token
+/Users/ou/Documents/Douban/Classes/LatestMedia.m:77: warning: control reaches end of non-void function
+/Users/ou/Documents/Douban/Classes/LatestMedia.m: In function '-[LatestMediaViewController tableView:numberOfRowsInSection:]':
+/Users/ou/Documents/Douban/Classes/LatestMedia.m:82: error: expected expression before '<' token
+/Users/ou/Documents/Douban/Classes/LatestMedia.m:83: warning: control reaches end of non-void function

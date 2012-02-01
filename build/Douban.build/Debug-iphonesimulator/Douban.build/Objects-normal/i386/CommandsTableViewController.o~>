@@ -1,0 +1,2 @@
+/Users/ou/Desktop/Douban/Classes/CommandsTableViewController.m: In function '-[CommandsTableViewController tableView:cellForRowAtIndexPath:]':
+/Users/ou/Desktop/Douban/Classes/CommandsTableViewController.m:163: warning: local declaration of 'tableView' hides instance variable
